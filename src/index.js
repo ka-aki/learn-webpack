@@ -1,4 +1,7 @@
 import _ from "lodash";
+import { NiJou } from "./utilities";
+
+console.log(NiJou(3));
 
 function component() {
   const element = document.createElement("div");
